@@ -13,4 +13,9 @@ I'm a back-end developer from Italy with a strong passion for game development a
 ## 📌 Currently
 I'm open to opportunities in backend development, tooling, or game tech — especially roles where I can grow and make an impact. I occasionally contribute to open-source projects if something sparks my interest.
 ## 📊 My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioardis&layout=donut&show_icons=true&theme=transparent)](https://github.com/FabioArdis)
+![](https://raw.githubusercontent.com/FabioArdis/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/FabioArdis/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/FabioArdis/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/FabioArdis/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+<sub>Generated via https://github.com/jstrieb/github-stats</sub>
